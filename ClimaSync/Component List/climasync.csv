@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"UA1",1," Arduino Uno R3"
+"ULCD1",1," LCD 16 x 2"
+"RpotP11",1,"10 kΩ Potentiometer"
+"RR1, RR2, RR4, RR3",4,"220 Ω Resistor"
+"D1",1," LED RGB"
+"SP1",1," Pushbutton"
+"RR41",1,"10 kΩ Resistor"
+"UDHT11",1," Temperature and Humidty Sensor [DHT11]"
