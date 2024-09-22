@@ -39,6 +39,7 @@ Include the circuit diagram here (e.g., with Fritzing or a hand-drawn schematic)
 ```cpp
 float water_lvl = analogRead(water_sensor_pin);
 float water_lvl_mapped = map(water_lvl, 0, 435, 0, 100);
+```
 
 #### Note: The water sensor's maximum value is mapped to 435, based on sensor calibration.
 
