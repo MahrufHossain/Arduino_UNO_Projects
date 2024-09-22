@@ -43,7 +43,6 @@ float water_lvl_mapped = map(water_lvl, 0, 435, 0, 100);
 
 #### Note: The water sensor's maximum value is mapped to 435, based on sensor calibration.
 
----
 
 ## Installation and Usage 📖
  - Clone or download the repository.
@@ -51,13 +50,11 @@ float water_lvl_mapped = map(water_lvl, 0, 435, 0, 100);
  - Connect the components as per the circuit diagram.
  - Open the Serial Monitor to view real-time water level status.
 
----
 ## Future Improvements 🚀
  - Add a buzzer to alert when water levels are too high or low.
  - Implement data logging to track water levels over time.
  - Optimize the pin usage by using an I2C interface for the LCD display.
 
----
 
 ## License 📄
 This project is licensed under the GNU License. Feel free to use, modify, and share!
